@@ -3,13 +3,13 @@ import { getAnalytics } from "firebase/analytics";
 
 export default defineNuxtPlugin((nuxtApp) => {
   const firebaseConfig = {
-    apiKey: "AIzaSyAErN7NtJsrKMJs9J70bWvLCsoj5-_NsMg",
-    authDomain: "wapp-2b58a.firebaseapp.com",
-    projectId: "wapp-2b58a",
-    storageBucket: "wapp-2b58a.appspot.com",
-    messagingSenderId: "629461912413",
-    appId: "1:629461912413:web:b95c398070f25d2d85b6b4",
-    measurementId: "G-J1BPJJJK8N"
+    apiKey: "AIzaSyD4CtHdJ_-F8q0aCD9Nr3iJd0uNBjs1lwA",
+    authDomain: "wapp-002.firebaseapp.com",
+    projectId: "wapp-002",
+    storageBucket: "wapp-002.appspot.com",
+    messagingSenderId: "85739114713",
+    appId: "1:85739114713:web:eadcaf53d822560ebfaec8",
+    measurementId: "G-MR6WSNXD34"
   };
 
   // Initialize Firebase
